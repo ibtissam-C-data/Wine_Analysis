@@ -90,7 +90,9 @@ Pour mener cette analyse, j'ai utilisé un éventail d'outils puissants :
 - **Jupyter Notebook** [Ici](https://github.com/ibtissam-C-data/Wine_Analysis/blob/main/Wine_analysis_docs/Cas_pratique_Wine_Analysis.ipynb)  pour la présentation des résultats de manière interactive.
     
 - **Power BI** [Ici](https://github.com/ibtissam-C-data/Wine_Analysis/blob/main/Wine_analysis_docs/Dashboard_Wine_Analysis_Domaine_des_Croix_Power_BI.pdf) pour la création de visualisations dynamiques.
+- **Power BI** [Ici](https://github.com/ibtissam-C-data/Wine_Analysis/blob/main/Wine_analysis_docs/Dashboard_Wine_Analysis_Domaine_des_Croix_Power_BI.pdf) pour la création de visualisations dynamiques.
 
+- **Power Point** [Ici](https://github.com/ibtissam-C-data/Wine_Analysis/blob/main/Wine_analysis_docs/Wine_Analysis_Domaine_des_Croix_Power_Point.pdf)  pour pousser la méthodologie au client et les recommandations.
 - **Power Point** [Ici](https://github.com/ibtissam-C-data/Wine_Analysis/blob/main/Wine_analysis_docs/Wine_Analysis_Domaine_des_Croix_Power_Point.pdf)  pour pousser la méthodologie au client et les recommandations.
     
 
