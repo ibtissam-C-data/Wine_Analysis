@@ -1,8 +1,10 @@
-# Wine_Analysis 🍷💡
+
+<h1 align="center"><strong> Wine_Analysis 🍷💡</strong></h1>
+
 
 Bienvenue dans le projet **Wine_Analysis**! Un voyage au cœur du monde du vin, où les chiffres rencontrent les saveurs. Laissez-moi vous emmener à travers une analyse complète du marché du vin, dans le but d'aider **le Domaine des Croix** à trouver le prix idéal pour ses bouteilles de vin sur le marché américain.
 
-## Contexte : Pourquoi ce projet ? 🍇
+# Contexte : Pourquoi ce projet ? 🍇
 
 Le **Domaine des Croix** est un vignoble bourguignon qui veut s'attaquer au marché américain. L'objectif est clair : définir un prix compétitif pour ses vins tout en se démarquant de la concurrence. Pour ce faire, nous disposons d'un **jeu de données de 130 000 bouteilles de vin**, couvrant tout, des cépages aux années de production, en passant par les prix sur le marché américain.
 
@@ -17,7 +19,7 @@ Je vais vous présenter de façon claire, accessible et visuelle l'analyse des d
 
 ---
 
-## Le Dataset : Les Trésors Cachés 🍷📊
+# Le Dataset : Les Trésors Cachés 🍷📊
 
 - **Jeu de données des 130 000 vins :**  
     [**Télécharger le dataset**](https://github.com/WildCodeSchool/wilddata/raw/main/wine.zip)  
@@ -30,7 +32,7 @@ Je vais vous présenter de façon claire, accessible et visuelle l'analyse des d
 
 ---
 
-## Livrables Attendus : Et Qu'est-ce que je vais présenter ? 🎯
+# Livrables Attendus : Et Qu'est-ce que je vais présenter ? 🎯
 
 **L'objectif est de simplifier l’analyse des données et de rendre les résultats clairs et actionnables pour le client.**  
 Voici un aperçu des livrables que vous trouverez ici :
@@ -46,7 +48,7 @@ Voici un aperçu des livrables que vous trouverez ici :
 
 ---
 
-## Objectifs Clés : La Mission 🎯
+# Objectifs Clés : La Mission 🎯
 
 Voici les étapes de mon approche pour ce projet :
 
@@ -81,7 +83,7 @@ Voici les étapes de mon approche pour ce projet :
 
 ---
 
-## Outils et Langages Utilisés 🛠️
+# Outils et Langages Utilisés 🛠️
 
 Pour mener cette analyse, j'ai utilisé un éventail d'outils puissants :
 
@@ -98,7 +100,7 @@ Pour mener cette analyse, j'ai utilisé un éventail d'outils puissants :
 
 ---
 
-## Aperçu du Tableau de Bord 🎨
+# Aperçu du Tableau de Bord 🎨
 
 Le tableau de bord est l'un des éléments clés de ce projet. Il contient :
 
@@ -113,13 +115,13 @@ Le tableau de bord est l'un des éléments clés de ce projet. Il contient :
 
 ---
 
-## Pourquoi ce Projet ? 🌟
+# Pourquoi ce Projet ? 🌟
 
 Ce projet me permet de montrer comment une **analyse de données concrète et accessible** peut avoir un impact réel sur une entreprise qui cherche à se positionner dans un marché concurrentiel comme celui du vin. L'objectif est que le Domaine des Croix puisse prendre des décisions éclairées grâce à des analyses simples, visuelles, et pertinentes.
 
 ---
 
-## Comment Reproduire Ce Projet ? 🧑‍💻
+# Comment Reproduire Ce Projet ? 🧑‍💻
 
 1. Téléchargez les jeux de données.
     
@@ -132,7 +134,7 @@ N'hésitez pas à cloner ce repo et à adapter l'analyse pour vos propres projet
 
 ---
 
-## Conclusion 🍷
+# Conclusion 🍷
 
 Et voilà, c'était l'analyse de données du marché du vin pour le Domaine des Croix. J'espère que vous trouverez ce projet à la fois informatif et agréable à explorer. Ce genre de projet me permet de combiner mon amour des données et mon goût pour les défis ! Si vous avez des questions ou des retours, n'hésitez pas à me contacter. 🍇
 
